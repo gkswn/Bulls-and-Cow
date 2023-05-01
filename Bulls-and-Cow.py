@@ -1,2 +1,2 @@
-def cnt(try_num):
-    print(try_num)
+def cnt(counter):
+    print(counter)
